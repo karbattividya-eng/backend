@@ -1,11 +1,11 @@
 {
-  "name": "chai-backend",
+  "name": "backend",
   "version": "1.0.0",
   "description": "a backend ",
   "keywords": [
     "javascript",
-    "backend",
-    "chai"
+    "backend"
+  
   ],
   "license": "ISC",
   "author": "vidya karbatti",
