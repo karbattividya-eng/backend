@@ -122,5 +122,7 @@ dist
 
 
 
-#nodemon : ha server la all time stop or start karnaya sathi taya sathi nodemon use karto ha kay karto manje to jeva data save hotaya taya time la server la automatically start karto
+# nodemon : ha server la all time stop or start karnaya sathi taya sathi nodemon use karto ha kay karto manje to jeva data save hotaya taya time la server la automatically start karto
 # npm i -D nodemon 
+# folder create karnaya sathi 
+# mkdir controllers, db, middlewares, models, routes, utils
