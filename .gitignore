@@ -137,3 +137,8 @@ dist
 # .prettierignore
 # try and catch : ha error handle karnaya sathi use karto 
 # node js api error ha ch website ahe taya madhe all api la error ala tar kasa handle karaych ahe te sangitla ghela ahe
+# avatar and coverimage ha third party user sathi asat
+# watchhistory ch ek array create karaych ani video che all point taya watchhistory madhe story karaych mg user konta pn video bgtila tar te video watchhistory madhe jauna story honar
+# te video madhe ownar ka ahe manje watchhistory sathi apn use kart ahe tar te kon bgitla ahe taya sathi te ahe
+# pre hock ha ek libray ahe to kay karto manje data ek unique na save karto
+# jwt biryayra token ahe ha token kon kadhe ahe to kay tar request send tar tayala kay data pahjie te tayala deto
